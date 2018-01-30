@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T19:25:30-08:00</updated><id>http://localhost:4000/</id><title type="html">Dilpreet Kaur</title><subtitle>
+This blog is about the basic elements of design thinking and making  interfaces easy to use.</subtitle><entry><title type="html">Simplicity in Design</title><link href="http://localhost:4000/blogs/Simplicity-in-design" rel="alternate" type="text/html" title="Simplicity in Design" /><published>2018-01-26T17:08:38-08:00</published><updated>2018-01-26T17:08:38-08:00</updated><id>http://localhost:4000/blogs/first-post</id><content type="html" xml:base="http://localhost:4000/blogs/Simplicity-in-design">&lt;div class=&quot;ex00&quot;&gt;
+
+	&lt;img src=&quot;../../assets/ex00.jpeg&quot; alt=&quot;img/jpg&quot;&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;!-- Content --&gt;
+
+&lt;p&gt;Simplicity is by far the most ironical concept in terms of design. This irony is clearly expressed by famous Paul Rand’s quote, &lt;i&gt;“Design is so simple, that’s why it’s complicated”.&lt;/i&gt;  As human beings, we want our things to be simple to use. We are entitled to get annoyed by the things that are confusing. How many times do you think about what button to press while using a lift? Or pushing or pulling a door which has no clear sign on it. We can think of millions of examples from our daily life which states this concept.&lt;/p&gt;
+
+&lt;p&gt;Simplicity doesn’t always mean to reduce colours and increase white space in your design. Simplicity should be understood more in terms of user experience because ultimately you are designing for someone else. So in easy terms, &lt;b&gt;simplicity is something that makes the interface easy to use for the audience&lt;/b&gt;. It directly depends on what your client wants to achieve with the specific piece of software.
+&lt;/p&gt;
+
+&lt;p&gt;
+
+	For example, your client wants you to design an app which can control your tv’s volume and change channels. The ultimate goal of your client is controlling volume and switch between channels. But this happens:
+
+&lt;/p&gt;
+
+
+&lt;div class=&quot;ex01&quot;&gt;
+
+	&lt;img src=&quot;../../assets/ex01.jpg&quot; alt=&quot;img/jpg&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;
+	This design may look simple to the designer but as per user’s perspective, this can be the most complicated thing to explore. So, it is very important for designers to understand the concept of simplicity in terms of user experience.
+
+&lt;/p&gt;
+
+&lt;h2&gt;5 ways to achieve simplicity in your Designs&lt;/h2&gt;
+
+&lt;h3&gt;1.&amp;nbsp Understand your users&lt;/h3&gt;
+&lt;p&gt;This is the first and foremost step when we start the designing process. We do all the interviews required to understand what our client wants. Instead of asking the basic questions like what features they want, ask them about their imagination about the app. Ask them why achieving certain goals through this app is important for them. When a designer is able to find the emotion behind the user’s need, half of the design job is done there. &lt;/p&gt;
+
+
+&lt;h3&gt;2. &amp;nbspAvoid adding unnecessary features&lt;/h3&gt;
+&lt;p&gt;After interviewing the user, we may have the potential list of features that our client wants in their app. As designers, we must stick to the scope of the project. You may have other additional things in your mind that may be suitable for the app but you should always stick to what your client wants and expect from this app.&lt;/p&gt;
+
+&lt;p&gt;According to an interesting psychological concept called the paradox of choice, the more choices we have, the less happy we are with the choices that we make. Adding new features to the interface always feel good but overloading your app with unnecessary features will always confuse the users and they wont be able to perform basic functions of that very app.&lt;/p&gt;
+
+&lt;h3&gt;3.&amp;nbspIncrease white space&lt;/h3&gt;
+
+&lt;p&gt;As I said earlier, don’t mistake simplicity with white space in your design but it can be considered as an asset which will help you achieve simplicity in your design. Whenever a user sees enough breathing space in the elements of the design, things look simpler in the brain.&lt;/p&gt;
+
+&lt;p&gt;For example, why do people often say Google it instead of Bing it. The answer is simple. Google provide such simplicity on the landing page that there are no unnecessary distractions and a lot of white space. Users find it very clear in their brains about what actions to perform over there.&lt;/p&gt;
+
+&lt;div class=&quot;timg&quot;&gt;
+	
+	&lt;div class=&quot;bing&quot;&gt;
+
+		&lt;img src=&quot;../../assets/bing.png&quot; alt=&quot;img/jpg&quot;&gt;
+
+	&lt;/div&gt;
+
+	&lt;div class=&quot;google&quot;&gt;
+
+		&lt;img src=&quot;../../assets/google.png&quot; alt=&quot;img/jpg&quot;&gt;
+
+	&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;h3&gt;4.&amp;nbspMaintain hierarchy&lt;/h3&gt;
+
+&lt;p&gt;As designers, it is our responsibility to guide users to perform specific actions on the app. You can manipulate the visual perception of your users. You should always be clear about what do you want your users to see first. There are multiple ways with which you can maintain hierarchy in your designs:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Understand the page scanning patterns available these days. Recent studies have shown that people first scan a page to get a sense of whether they are interested, before committing to read it. You can study in detail about these patterns in this famous article by &lt;a href=&quot;https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/&quot; target=&quot;_blank&quot;&gt;Neilson Norman Group&lt;/a&gt;.&lt;/li&gt;
+
+	&lt;li&gt;It is a psychological fact that human beings tend to read bigger things first. So, if you want your user to read a certain thing first, use big typography.&lt;/li&gt;
+
+	&lt;li&gt;You can also achieve good hierarchy by choosing right colour, texture and effect for a particular element of the design.&lt;/li&gt;&lt;/ul&gt;
+
+
+	&lt;h3&gt;5.&amp;nbspRight use of typography&lt;/h3&gt;
+
+	&lt;p&gt;Typography plays a major role in explaining your users about the interface and guiding them through the entire process of performing a specific action on that interface. So choosing the right typography and being consistent with it for the entire interface are important things to consider for achieving simplicity. Exploring visual aspects of type can make your design really shout. It can effect the readers’ moods and emotions and evoke reactions.&lt;/p&gt; 
+
+	&lt;p&gt;The biggest example of the importance of right typography in your design is when the wrong winner was declared at &lt;a href=&quot;http://www.slate.com/blogs/browbeat/2017/02/27/moonlight_wins_best_picture_as_incredible_twist_ending_makes_2017_oscars.html&quot; target=&quot;_blank&quot;&gt;2017 Academy Awards&lt;/a&gt; for the best picture. As you can clearly see in the picture that the the most important thing is “Best Picture” which is written at the bottom of the card and in the tiniest font and it is very hard to see. Even the wrong envelope was handed to the announcers, if they could have see the category clearly, the chaos would have been avoided.&lt;/p&gt;
+
+	&lt;p&gt;Thanks for reading!&lt;/p&gt;
+
+
+
+
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
