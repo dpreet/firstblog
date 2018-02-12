@@ -41,6 +41,10 @@ p {
   margin-top: 35px;
   margin-bottom: 35px; }
 
+.listimg {
+  margin: 50px auto;
+  border: 1px solid black; }
+
 /**
  * Images
  */

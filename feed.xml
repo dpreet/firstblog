@@ -1,5 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-29T19:25:30-08:00</updated><id>http://localhost:4000/</id><title type="html">Dilpreet Kaur</title><subtitle>
-This blog is about the basic elements of design thinking and making  interfaces easy to use.</subtitle><entry><title type="html">Simplicity in Design</title><link href="http://localhost:4000/blogs/Simplicity-in-design" rel="alternate" type="text/html" title="Simplicity in Design" /><published>2018-01-26T17:08:38-08:00</published><updated>2018-01-26T17:08:38-08:00</updated><id>http://localhost:4000/blogs/first-post</id><content type="html" xml:base="http://localhost:4000/blogs/Simplicity-in-design">&lt;div class=&quot;ex00&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-12T11:10:37-08:00</updated><id>http://localhost:4000/</id><title type="html">Dilpreet Kaur</title><subtitle>
+This blog is about the basic elements of design thinking and making  interfaces easy to use.</subtitle><entry><title type="html">Prototyping-With-Invision</title><link href="http://localhost:4000/blogs/Prototyping-With-Invision" rel="alternate" type="text/html" title="Prototyping-With-Invision" /><published>2018-02-11T17:08:38-08:00</published><updated>2018-02-11T17:08:38-08:00</updated><id>http://localhost:4000/blogs/Prototyping-with-Invision</id><content type="html" xml:base="http://localhost:4000/blogs/Prototyping-With-Invision">&lt;div class=&quot;ex00&quot;&gt;
+
+	&lt;img src=&quot;../../assets/invision.svg&quot; alt=&quot;img/svg&quot;&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;!-- Content --&gt;
+
+&lt;p&gt;Prototyping is one of the most important stages of a design process. It allows a designer to check and test all the design decisions he/she made during UX process. Prototypes should not be compared to the final product, rather these are the samples which are only built to test the functionality of the app. Before starting the Interface Design, it is crucial for a designer to test all the design solutions which will save time and effort in the end. Testing with prototypes will reveal all the basic bugs in your design prior to the actual implementation and you can fix them beforehand.&lt;/p&gt;
+
+&lt;h2&gt;General Description of the tool&lt;/h2&gt;
+
+&lt;p&gt;Invision is a prototyping software which provides a number of digital interactions with the still mockups of an interface. It also supports designing user interfaces for mobile applications. It is one of the major players in the market as it constantly improves the user experience but also regularly add extensions to the product.&lt;/p&gt;
+
+&lt;p&gt;Invision provides the ability to upload more or less detailed wireframes and with the functionalities of the app these wireframes are converted into the prototype. Invision makes it very easy to input the necessary transitions, test the navigation and analyze button behaviours which is important to test prior to the development process.&lt;/p&gt;
+
+&lt;p&gt;As per developer’s perspective, Invision allows better collaboration between designers and developers. Rather than documenting the necessary transition effects and hover behaviours, a designer can visually let the developer know about the effects that clearly bridges the gap between both parties.&lt;/p&gt;
+
+
+
+&lt;h2&gt;Steps towards your first prototype with invision&lt;/h2&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;Sign In to Invision if you are already a user otherwise sign up.&lt;/li&gt;
+
+&lt;li&gt;For the first time, Invision allows to create a new project under which you can choose to prototype, create mood-boards or draw freehand. Choose ‘create new prototype’.&lt;/li&gt;
+
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+	&lt;img src=&quot;../../assets/start.svg&quot; alt=&quot;img/svg&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;li&gt;Enter your project name and choose whether its a mobile app or web app.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/start2.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+	&lt;/div&gt;
+
+&lt;li&gt;Now upload all of your screen mockups or you can also drag/drop. You can also upload loading screen of your app. Loading screen is the screen which will be visible while launching your app.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/upload.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;li&gt;You can start by clicking your first mockup or where you want the interaction to start. Here, I will start with my LogIn Page.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/view.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;li&gt;The next screen will show your mock in a mobile interface. This is automatically in the ‘Preview Mode’. In order to start prototyping, make sure you switch to ‘Build Mode’.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/mode.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;li&gt;When you enter the Build Mode, you can start creating hotspots. Hotspots are the areas of the where your user will actually click and interact with the app. &lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/hotspot.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;li&gt;A dialog box will appear which will ask you to input all the important information like the destination where you want your user to end up after clicking the particular button, gesture with the button and what sort of transition would you like. Enter all the necessary information and press ‘Save’.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/hinfo.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;li&gt;You can Shift+Click on the created hotspot to navigate in the Build Mode which will take you to the chosen destination. Here you can create another hotspot and repeat the previous step on all the other screens to create a navigation for your app.&lt;/li&gt;
+
+&lt;div class=&quot;listimg&quot;&gt;
+
+
+		&lt;img src=&quot;../../assets/click.svg&quot; alt=&quot;img/svg&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;/ol&gt;
+
+&lt;p&gt;Above steps were just the basic steps to start with Invision. There are so many other functionalities of Invision that will help you prototype better and share it with your fellow designers and developers.Above steps were just the basic steps to start with Invision. There are so many other functionalities of Invision that will help you prototype better and share it with your fellow designers and developers.&lt;/p&gt;
+
+&lt;p&gt;Make sure you explore the exciting new features of the app &lt;a href=&quot;https://www.invisionapp.com/new-features&quot;&gt; here&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Simplicity in Design</title><link href="http://localhost:4000/blogs/Simplicity-in-design" rel="alternate" type="text/html" title="Simplicity in Design" /><published>2018-01-26T17:08:38-08:00</published><updated>2018-01-26T17:08:38-08:00</updated><id>http://localhost:4000/blogs/first-post</id><content type="html" xml:base="http://localhost:4000/blogs/Simplicity-in-design">&lt;div class=&quot;ex00&quot;&gt;
 
 	&lt;img src=&quot;../../assets/ex00.jpeg&quot; alt=&quot;img/jpg&quot;&gt;
 
