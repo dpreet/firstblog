@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-02-12T21:16:03-08:00</updated><id>/</id><title type="html">Dilpreet Kaur</title><subtitle>
-This blog is about the basic elements of design thinking and making  interfaces easy to use.</subtitle><entry><title type="html">Prototyping-With-Invision</title><link href="/blogs/Prototyping-With-Invision" rel="alternate" type="text/html" title="Prototyping-With-Invision" /><published>2018-02-11T17:08:38-08:00</published><updated>2018-02-11T17:08:38-08:00</updated><id>/blogs/Prototyping-with-Invision</id><content type="html" xml:base="/blogs/Prototyping-With-Invision">&lt;div class=&quot;ex00&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-05T16:17:02-08:00</updated><id>http://localhost:4000/</id><title type="html">Dilpreet Kaur</title><subtitle>
+This blog is about the basic elements of design thinking and making  interfaces easy to use.</subtitle><entry><title type="html">Prototyping-With-Invision</title><link href="http://localhost:4000/blogs/Prototyping-With-Invision" rel="alternate" type="text/html" title="Prototyping-With-Invision" /><published>2018-02-11T17:08:38-08:00</published><updated>2018-02-11T17:08:38-08:00</updated><id>http://localhost:4000/blogs/Prototyping-with-Invision</id><content type="html" xml:base="http://localhost:4000/blogs/Prototyping-With-Invision">&lt;div class=&quot;ex00&quot;&gt;
 
 	&lt;img src=&quot;../../assets/invision.svg&quot; alt=&quot;img/svg&quot;&gt;
 
@@ -109,7 +109,7 @@ This blog is about the basic elements of design thinking and making  interfaces 
 
 &lt;p&gt;Thanks for reading!&lt;/p&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Simplicity in Design</title><link href="/blogs/Simplicity-in-design" rel="alternate" type="text/html" title="Simplicity in Design" /><published>2018-01-26T17:08:38-08:00</published><updated>2018-01-26T17:08:38-08:00</updated><id>/blogs/first-post</id><content type="html" xml:base="/blogs/Simplicity-in-design">&lt;div class=&quot;ex00&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Simplicity in Design</title><link href="http://localhost:4000/blogs/Simplicity-in-design" rel="alternate" type="text/html" title="Simplicity in Design" /><published>2018-01-26T17:08:38-08:00</published><updated>2018-01-26T17:08:38-08:00</updated><id>http://localhost:4000/blogs/first-post</id><content type="html" xml:base="http://localhost:4000/blogs/Simplicity-in-design">&lt;div class=&quot;ex00&quot;&gt;
 
 	&lt;img src=&quot;../../assets/ex00.jpeg&quot; alt=&quot;img/jpg&quot;&gt;
 
