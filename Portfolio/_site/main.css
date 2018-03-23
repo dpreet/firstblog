@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,600');
+
+img{
+
+    max-width: 100%;
+    height:auto;
+    
+}
+
+.hcontent{
+
+    background: url('assets/banner.png');
+    height: 100vh;
+    background-size: cover;
+    /* position: relative; */
+    background-attachment: fixed;
+
+    display: flex;
+    flex-direction:column;
+    
+    justify-content: space-around;
+
+}
+
+.hcontent h1{
+
+   font-family: 'Lora', sans-serif;
+   color: white;    
+   align-self: center;
+  
+}
+
+.hcontent span{
+    align-self: center;
+  
+}
+
+.work {
+
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    flex-wrap: wrap;
+}
+
+.work h1{
+
+    margin: 200px auto;
+    text-align: center;
+    flex-basis: 100%;
+
+}
+
+/* ************************************** image 1 ******************************************** */
+.parent1{
+
+    flex-basis:48%;
+    margin:1%;
+    height:500px;  
+}
+
+
+.child1 {
+    width: 99.99%; 
+    height: 99.99%;
+    background: url('assets/ECOMMERCE.png');
+    background-size: cover;
+    transition: all .5s;
+  }
+
+  .parent1:hover .child1 {
+  transform: scale(1.01);
+}
+
+  .child1::before {
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.75);
+  }
+
+  
+  
+  .parent1:hover .child1:before,
+  .parent1:focus .child1:before {
+    display: block;
+  }
+
+  .child1 a{
+    color: white; /* Good thing we set a fallback color! */
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top:38%;
+    padding-left:25%;
+    position: absolute;
+  }
+
+  .child1 a{
+
+    display: none;
+  }
+  .parent1:hover a,
+.parent1:focus a {
+  display: block;
+}
+
+.child1 a:hover{
+
+    color: white;
+
+}
+
+
+/* ************************************** image 2 ******************************************** */
+.parent2{
+
+    flex-basis:48%;
+    margin:1%;
+    height:500px;  
+}
+
+
+.child2 {
+    width: 99.99%; 
+    height: 99.99%;
+    background: url('assets/asq.png');
+    background-size: cover;
+    transition: all .5s;
+  }
+
+  .parent2:hover .child2 {
+  transform: scale(1.01);
+}
+
+  .child2::before {
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.75);
+  }
+
+  
+  
+  .parent2:hover .child2:before,
+  .parent2:focus .child2:before {
+    display: block;
+  }
+
+  .child2 a{
+    color: white; /* Good thing we set a fallback color! */
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top:38%;
+    padding-left:25%;
+    position: absolute;
+  }
+
+  .child2 a{
+
+    display: none;
+  }
+  .parent2:hover a,
+.parent2:focus a {
+  display: block;
+}
+
+.child2 a:hover{
+
+    color: white;
+
+}
+
+
+/* ************************************** image 3 ******************************************** */
+.parent3{
+
+    flex-basis:48%;
+    margin:1%;
+    height:500px;  
+}
+
+
+.child3 {
+    width: 99.99%; 
+    height: 99.99%;
+    background: url('assets/cinc.png');
+    background-size: cover;
+    transition: all .5s;
+  }
+
+  .parent3:hover .child3 {
+  transform: scale(1.01);
+}
+
+  .child3::before {
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.75);
+  }
+
+  
+  
+  .parent3:hover .child3:before,
+  .parent3:focus .child3:before {
+    display: block;
+  }
+
+  .child3 a{
+    color: white; /* Good thing we set a fallback color! */
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top:38%;
+    padding-left:25%;
+    position: absolute;
+  }
+
+  .child3 a{
+
+    display: none;
+  }
+  .parent3:hover a,
+.parent3:focus a {
+  display: block;
+}
+
+.child3 a:hover{
+
+    color: white;
+
+}
+
+/* ************************************** image 4 ******************************************** */
+.parent4{
+
+    flex-basis:48%;
+    margin:1%;
+    height:500px;  
+}
+
+
+.child4 {
+    width: 99.99%; 
+    height: 99.99%;
+    background: url('assets/logos.png');
+    background-size: cover;
+    transition: all .5s;
+  }
+
+  .parent4:hover .child4 {
+  transform: scale(1.01);
+}
+
+  .child4::before {
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.75);
+  }
+
+  
+  
+  .parent4:hover .child4:before,
+  .parent4:focus .child4:before {
+    display: block;
+  }
+
+  .child4 a{
+    color: white; /* Good thing we set a fallback color! */
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top:38%;
+    padding-left:25%;
+    position: absolute;
+  }
+
+  .child4 a{
+
+    display: none;
+  }
+  .parent4:hover a,
+.parent4:focus a {
+  display: block;
+}
+
+.child4 a:hover{
+
+    color: white;
+
+}
+
+/* ************************************** image 5 ******************************************** */
+.parent5{
+
+    flex-basis:48%;
+    margin:1%;
+    height:500px;  
+}
+
+
+.child5 {
+    width: 99.99%; 
+    height: 99.99%;
+    background: url('assets/skeuo.png');
+    background-size: cover;
+    transition: all .5s;
+  }
+
+  .parent5:hover .child5 {
+  transform: scale(1.01);
+}
+
+  .child5::before {
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, 0.75);
+  }
+
+  
+  
+  .parent5:hover .child5:before,
+  .parent5:focus .child5:before {
+    display: block;
+  }
+
+  .child5 a{
+    color: white; /* Good thing we set a fallback color! */
+    font-family:'Open Sans', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top:38%;
+    padding-left:25%;
+    position: absolute;
+  }
+
+  .child5 a{
+
+    display: none;
+  }
+  .parent5:hover a,
+.parent5:focus a {
+  display: block;
+}
+
+.child5 a:hover{
+
+    color: white;
+
+}
+
+
+
+
+
