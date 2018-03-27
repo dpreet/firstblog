@@ -7,6 +7,11 @@ img{
     
 }
 
+.wrapper{
+
+  max-width: 100%;
+}
+
 .hcontent{
 
     background: url('assets/banner.png');
@@ -96,7 +101,7 @@ img{
     font-size: 2rem;
     text-decoration: none;
     padding-top:38%;
-    padding-left:25%;
+    padding-left:30%;
     position: absolute;
   }
 
@@ -161,7 +166,7 @@ img{
     font-size: 2rem;
     text-decoration: none;
     padding-top:38%;
-    padding-left:25%;
+    padding-left:30%;
     position: absolute;
   }
 
@@ -226,7 +231,7 @@ img{
     font-size: 2rem;
     text-decoration: none;
     padding-top:38%;
-    padding-left:25%;
+    padding-left:30%;
     position: absolute;
   }
 
@@ -290,7 +295,7 @@ img{
     font-size: 2rem;
     text-decoration: none;
     padding-top:38%;
-    padding-left:25%;
+    padding-left:30%;
     position: absolute;
   }
 
@@ -354,7 +359,7 @@ img{
     font-size: 2rem;
     text-decoration: none;
     padding-top:38%;
-    padding-left:25%;
+    padding-left:30%;
     position: absolute;
   }
 

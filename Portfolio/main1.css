@@ -13,6 +13,11 @@ img {
     height: auto;
 }
 
+wrapper{
+
+    max-width: 100%;
+  }
+
 .material-icons{
 
     
